@@ -4,4 +4,4 @@ By Eric Nguyen <br>
 # Links
 
 # Embeded Picture
-![Picture](ss_winemb.jpg)
+![Picture](ss_winemb.png)
