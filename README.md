@@ -1,2 +1,7 @@
-# PSU_IST256_Wiki_Assignment
-PSU_IST256 Wikipedia Self Bio Assignment by Eric Nguyen
+# IST256.001- Wikipedia Self Bio Assignment 
+By Eric Nguyen <br>
+2/14/2023
+# Links
+
+# Embeded Picture
+![Picture](ss_winemb.jpg)
